@@ -1,0 +1,13 @@
+*.tex
+*.ps
+*.pdf
+*.dvi
+*.aux
+*.log
+*.bak
+*.txt
+*.*~
+*.gpg
+*.tar
+
+
