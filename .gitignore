@@ -8,6 +8,5 @@
 *.txt
 *.*~
 *.gpg
-*.tar
-*.gz
+*.sh
 
